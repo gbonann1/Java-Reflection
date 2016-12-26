@@ -1,0 +1,26 @@
+fqn:genericDeser.util.Second
+type=int, var=IntValue, value=-869328340
+type=double, var=DoubleValue, value=0.11932186768429953
+type=boolean, var=BooleanValue, value=true
+fqn:genericDeser.util.Second
+type=boolean, var=BooleanValue, value=false
+fqn:genericDeser.util.First
+fqn:genericDeser.util.Second
+type=int, var=IntValue, value=-368254219
+type=boolean, var=BooleanValue, value=true
+type=double, var=DoubleValue, value=0.12255611719669868
+fqn:genericDeser.util.First
+type=String, var=StringValue, value=alienum.
+fqn:genericDeser.util.First
+type=short, var=ShortValue, value=22783
+fqn:genericDeser.util.Second
+type=boolean, var=BooleanValue, value=true
+type=double, var=DoubleValue, value=0.16408137826274183
+fqn:genericDeser.util.First
+type=int, var=IntValue, value=1905997152
+type=short, var=ShortValue, value=-8510
+type=float, var=FloatValue, value=0.9112378
+fqn:genericDeser.util.First
+type=short, var=ShortValue, value=6954
+type=float, var=FloatValue, value=0.5063478
+type=String, var=StringValue, value=Nec
